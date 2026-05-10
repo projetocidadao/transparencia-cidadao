@@ -1,44 +1,40 @@
 # Transparência Cidadã
 
-## O que é este projeto?
+Um sistema de transparência pública e participação cidadã. Objetiva que cada cidadão possa verificar e acompanhar as informações de seu governo.
 
-Transparência Cidadã é um sistema aberto de transparência pública e participação cidadã. Ele permite que o cidadão comum acomphanhe a execução do orçamento pública, fiscalizar contratos e obras, e participe ativamente da gestão pública.
+## O que fazemos
 
-### Para que server
+- Promover transparência não apenas de gastos públicos
+- Participar do monitoramento de ações públicas
+- Denunciar corrupção e fraudes
+- Demandar serviços do governo e receber resposta
 
-- Reportar problemas de infraestrutura e belezura da pavimentacção
-- Acompanhar alterações de status de demandas e requisições
-- Acessar informações sobre licitações, contratos e orçamentos
-- Descobrir onde o dinheiro público está sendo investido
-- Notificar-se sobre as investigações de demandas
+## Como funciona
 
-### Especialização para o Brasil
+Usuário cria-de-nho a sua demanda. Compara os gastos dos impostores, verifica os contratos, em tempo real.
 
-Possibilidade de configurar um modelo de dados que permite à cada região de gestores públicos configurar suas demandas específicas. Todo módulo pode ser agregado ao projeto conforme a necessidade de cada estado ou município.
+As informações ficam em um dashboard público para você ver o que o governo está fazendo com seu dinheiro.
 
-### Como funciona
+## Módulos
 
-Como cidadão, o que posso fazer?
+A partir do sistema é possível agregar conforme os módulos:
 
-- Criar demandas sobre as investigações de investimentos e obras
-- Reservar notificações de audiências sobre o status de demandas, compartilhar dados de investimentos e obras, regulamentar o status de demandas, notificação de audiências, compartilhar dados de investimentos e obras.
+- 📝 Módulo Cidadão — Criar demandas, sugestão de reclamações, acompanhar status
+- 📋 Módulo Licitação — Acessar editais, contratos e orçamentos
+- 🔍 Módulo Vistorias — Verificar obras públicas
+- 💰 Módulo Orçamento — Rastrear gastos públicos
+- 🔎 Módulo Fiscalização — Denúncias e informações provenciais 
 
-## Módulos da plataforma
+## Facilidades
 
-- **Módulo Mobile** — aplicativo para cadastro de demandas e requisições por celular
-- **Módulo Desktop** — acesso à informação de licitações e contratos
-- **Módulo Vistorias** — registro de vistorias de obras e aprovação de pagamentos
-- **Módulo Orçamento** — rastrear gastos públicos e descobrir onde o dinheiro foi investido
-- **Módulo Fiscalização** — denúncias e informações preventivas.
+Sistema aberto, aberto, aberto.
 
 ## Como contribuir
 
-Projeto aberto de código aberto, com sua licença e livre para todos os que quiserem utilizar.
+Tinha um sistema de transparência cidadã está disponível com abertura. Você pode agregar módulos de código abertura do site:
 
-Site: [https://github.com/projetocidadao/transparencia-cidadao](https://github.com/projetocidadao/transparencia-cidadao)
+- [GitHub](https://github.com/projetocidadao/transparencia-cidadao)
 
-Site do projeto: http://transparencia.exemplo.com
+## Contato
 
-Licença: MIT License
-
-Gracias a todos os que contribuírem ao projeto!
+Sistema aberto para codanos técnicos e cidadãos que queiram que mains de transparência.
