@@ -1,1 +1,44 @@
-IyBUcmFuc3BhcmVuY2lhIENpZGFkYSAtIFNpc3RlbWEgTW9kdWxhcgpObyBjYW1wbyBkZSBjYW1iaW5hciB1bWEgZ3JhbmRlIGRlIHRyYW5zcGFyZW5jaWEgcHVibGljYSBlIHBhcnRpY2lwYWNhw6fDo28gY2lkYWTDsy4gVW0gc2lzdGVtYSBtb2R1bGFyIHF1ZSBwZXJtaXRlIGEgaW5zdGFsYcOnw6NvIGRlIG1vZHVsb3MgZGVwZW5kZW5kbyBkYSByZWdpw6fDo28gZSBkYXMgbmVjZXNzaWRhZGVzIGRlIGNhZGEgcmVnaWFvLgoKIyMgT2JqZXRpdm9zCgotIFByb21vdmVyIHRyYW5zcGFyZW5jaWEgbsOjbyBhw6fDo28gZGUgZ3V2ZXJubyBww7NibGljbwpvciBQYXJ0aWNpcGFyIGRvIGNpZGFkw6NvIG5vIG1vbml0b3JhbWVudG8gZGUgYXDqW5kYXMgcHVibGljYXMKIyBEZXNlbhVWYXJpb3MgbW9kdWxvcyBxdWUgY29tZW0gYWdyZWdhbmRvcyBjb21vIHBhcnRpY2lwYW50ZXMgc2UganVudGFyYW0gbm8gcHJvamV0by4KCiMjIE1vZHVsb3MKCkNhZGEgbW9kdWxvIGVjYW5hciBhZ3JlZ2Fkb3MgYW8gcHJvamV0by4gVmVqYSB1bWEgbGlzdGEgZGUgbW9kdWxvcyBkaXNwb25pYmlzOgotIE1vZHVsbyBCYXNlIChjb3JlKSAtIEF1dGVudGljYWNhbywgQ2FkYXN0cm8gZGUgRGVtYW5kYXMsIEFj21wYW5oYW1lbnRvIGRlIFN0YXR1cywKRmVkIFP1YmxpY28gZGUgRGVtYW5kYXMKLk1vZHVsbyBMaWNpdGFjaW9lcyAtIEFjZXNzbyBhIGVkaXRhaXMsIGNvbnRyYXRvcywgb3JwYW1lbnRvcywKTCBNb2R1bG8gVmlzdG9yaWFzIC0gQ2havesKoIHRlbXBvcsOocmlhcyBlIGNyaXB0b2dyYWZhZGFzLAoKIE1vZHVsbyBPcm7DoW1lbnRvIC0gUmFzdHJlYW1lbnRvIGRlIGdhc3RvcywKTCBNb2R1bG8gRmlzY2FsaXphY2FvIC0gRGVuw7NzZSBhbsOnb21pbW9zLCBhdWRpdG9zIGRlIGRlbmOtdW5jaWFzLgoKIyMgVGVjbm9sb2dpYSBkZSBEZXNlbhVWYXJpb3MgbW9kdWxvcyBwb2RlbSBzZXIgYWRpY2lvbmFkb3MgcG9yIHJlZ2lvdW5vcyBkaWZlcmVudGVzLiBBc3NpbyBvIG1vZGVsb3M6CgotIEJhY2tlbmQ6IE5vZGUuanMgKFNwcmluZykgb3UgUHl0aG9uIChGYXN0QXBpKQotIEJhbmNvOiBQb3N0Z3JlU1FTCi0gRnJvbnRlbmQ6IFJlYWN0L05leHQuanMKIyMgSW5zdGFsYcOnw6NvCgpWYWogYSBzZcOnw6NvIGRvcyBjYW1pbG9zIGRvY3VtZW50b3Mgbm8gZGlyZXRvcmlvIGRvY3MvLiBUb2RvcyBtb2R1bG9zIHRlbsRpbyBzZXUgcHJvcHJpbyBkaXJlY3RvcmlvLgoKIyMgTGljZW5jYQpwcm9qZXRvIGxpdmJyZSBzdWIgTUlUIExpY2Vuc2UgKG1vZGlmaWNhw6fDo28gZGUgY29kaWdvIGFiZXJ0bykuCgpHcmF0b3MgcGFyYSB0b2RvcyBxdWUgY29udHJpYnVlbWVtIGFvIHByb2pldG8h
+# Transparência Cidadã
+
+## O que é este projeto?
+
+Transparência Cidadã é um sistema aberto de transparência pública e participação cidadã. Ele permite que o cidadão comum acomphanhe a execução do orçamento pública, fiscalizar contratos e obras, e participe ativamente da gestão pública.
+
+### Para que server
+
+- Reportar problemas de infraestrutura e belezura da pavimentacção
+- Acompanhar alterações de status de demandas e requisições
+- Acessar informações sobre licitações, contratos e orçamentos
+- Descobrir onde o dinheiro público está sendo investido
+- Notificar-se sobre as investigações de demandas
+
+### Especialização para o Brasil
+
+Possibilidade de configurar um modelo de dados que permite à cada região de gestores públicos configurar suas demandas específicas. Todo módulo pode ser agregado ao projeto conforme a necessidade de cada estado ou município.
+
+### Como funciona
+
+Como cidadão, o que posso fazer?
+
+- Criar demandas sobre as investigações de investimentos e obras
+- Reservar notificações de audiências sobre o status de demandas, compartilhar dados de investimentos e obras, regulamentar o status de demandas, notificação de audiências, compartilhar dados de investimentos e obras.
+
+## Módulos da plataforma
+
+- **Módulo Mobile** — aplicativo para cadastro de demandas e requisições por celular
+- **Módulo Desktop** — acesso à informação de licitações e contratos
+- **Módulo Vistorias** — registro de vistorias de obras e aprovação de pagamentos
+- **Módulo Orçamento** — rastrear gastos públicos e descobrir onde o dinheiro foi investido
+- **Módulo Fiscalização** — denúncias e informações preventivas.
+
+## Como contribuir
+
+Projeto aberto de código aberto, com sua licença e livre para todos os que quiserem utilizar.
+
+Site: [https://github.com/projetocidadao/transparencia-cidadao](https://github.com/projetocidadao/transparencia-cidadao)
+
+Site do projeto: http://transparencia.exemplo.com
+
+Licença: MIT License
+
+Gracias a todos os que contribuírem ao projeto!
