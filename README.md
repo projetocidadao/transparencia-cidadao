@@ -11,7 +11,7 @@ Um sistema de transparência pública e participação cidadã. Objetiva que cad
 
 ## Como funciona
 
-Usuário cria-de-nho a sua demanda. Compara os gastos dos impostores, verifica os contratos, em tempo real.
+Usuário preenche os dados conforme a sua demanda. sobre o tema de interesse ele comparar os gastos da area a ser auditada, verifica os contratos, em tempo real.
 
 As informações ficam em um dashboard público para você ver o que o governo está fazendo com seu dinheiro.
 
