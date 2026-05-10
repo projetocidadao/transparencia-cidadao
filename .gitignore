@@ -1,0 +1,54 @@
+# Gitignore files
+## Node-ums
+node_modules/
+node_modules:*!node_modules
+## React
+build/
+build/
+.github/
+.github/
+.avalon/
+.avalon/
+.create-react-app.json/
+.create-react-app.json/
+.dist/
+## Environment
+.env.local
+.env.production
+## Linux
+.swp/
+## MacOS
+.DsStore/
+
+Desk/production/
+Installations/
+Installations:*
+.DOCKEES/
+## Template
+temp/
+#temp.files/
+## Private
+secrets.json
+access.token.json
+access.token-*.json
+## OS specific
+JWT/
+.Compact/
+## Insights & Backups
+backups/
+backups:*/
+*.backup
+*.backup
+## Logs *.log
+*.log
+*.logs/
+
+Text editors:
+.*.svg
+*.svg
+*.project
+.project
+.projects/
+.Idea/UntitledTexts/
+.Idea/UserData/
+.Idea/Settings/
